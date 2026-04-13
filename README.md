@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## I'm Padmanathan K
+## Software Engineering Student @VIT
 <!--
 **pravinVK03/pravinVK03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
