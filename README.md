@@ -8,7 +8,7 @@
 
 * 🔭 Currently working on **AI-driven and Full-Stack Development projects**
 * 🌱 Learning and exploring **Artificial Intelligence, Machine Learning, Data Analysis, and Cloud Computing**
-* 💡 Passionate about solving real-world problems through technology
+* 💡 Passionate about solving real-world problems via technology
 * 🧠 Interested in **System Design, Data Science, and Product Development**
 * 🚀 Enthusiastic about building startups and innovative SaaS products
 
@@ -55,14 +55,11 @@
 * Machine Learning
 * Deep Learning
 * Data Analysis
-* Explainable AI (XAI)
 
 ### 🧰 Tools & Technologies
 
 * Visual Studio Code
 * Jupyter Notebook
-* Postman
-* IntelliJ IDEA
 
 ---
 
@@ -85,9 +82,6 @@ A smart glove with a gesture-based interface that interprets human-generated ges
 ## 🏆 Achievements
 
 * 📜 **Patent Publication:** *VLink – Virtual Link*
-* 🤖 Developer of AI-powered and socially impactful solutions
-* 🚀 Innovator in SaaS, Healthcare, and Embedded Systems
-* 📊 Enthusiast in Explainable Artificial Intelligence and Data Science
 
 ---
 
