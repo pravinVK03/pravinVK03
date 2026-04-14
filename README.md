@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Padmanathan K
 
-🎓 **Aspiring Software Engineer** | 🤖 **AI & Data Science Enthusiast** | 📜 **1 Patent Publication**
+🎓 **Aspiring Software Engineering Student @VIT Vellore** | 🤖 **AI & Data Science Enthusiast** | 📜 **1 Patent Publication**
 
 ---
 
