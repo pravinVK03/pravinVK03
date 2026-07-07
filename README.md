@@ -21,8 +21,6 @@
 * Python
 * Java
 * C/C++
-* SQL
-* R
 
 ### 🌐 Web Development
 
