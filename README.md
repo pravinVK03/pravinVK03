@@ -41,6 +41,7 @@
 * Arduino
 * ESP32
 * Basic Electrical and Electronics
+* IoT
 
 ### ☁️ Cloud & DevOps
 
@@ -51,7 +52,6 @@
 ### 🤖 AI & Data Science
 
 * Machine Learning
-* Deep Learning
 * Data Analysis
 
 ### 🧰 Tools & Technologies
@@ -85,7 +85,7 @@ A smart glove with a gesture-based interface that interprets human-generated ges
 
 ## 📫 Connect With Me
 
-* 📧 Email: pravinvk0003@gmail.com
+* 📧 Email: pravinvk0003@gmail.com; padmanathank.dev@gmail.com
 * 💼 LinkedIn: https://linkedin.com/in/pravinvk
 
 ---
